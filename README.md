@@ -10,4 +10,4 @@
 
 - [Oslog Dashboard](https://github.com/praditauniversity/oslog/blob/main/oslog_dashboard.md)
 
-- Oslog Dashboard by Grafana
+- [Oslog Dashboard by Grafana](https://github.com/praditauniversity/oslog/blob/main/oslog_grafana.md)
